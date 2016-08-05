@@ -1,28 +1,20 @@
-layout_spectrum: 0.9
-description: 'Design, Google Adwords, Social Media '
-name: Avax Media
-title: A Web Agency That Thinks Differently
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.4014337135013193
 color:
   brandStrength: 0.7645229029003531
-  saturation: 0.4027518553193659
+  lightness: 0.24572642147541046
+  saturation: 0.40275185531936586
+  rhythmicContrast: 0.47842784505337477
   brandColors:
     - '#E6E2AF'
     - '#A7A37E'
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-  lightness: 0.2457264214754105
-  rhythmicContrast: 0.4784278450533748
+layout_spectrum: 0.0496670154388994
+author:
+  name: Dennis McGraw
+  email: dennis@avaxmedia.com
+  url: 'http://www.avaxmedia.com'
+name: Avax Media
+title: A Web Agency That Thinks Differently
+description: 'Design, Google Adwords, Social Media '
